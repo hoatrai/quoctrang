@@ -1,0 +1,989 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Woodmart 7.1.4 VI\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 404.php:11
+msgid "Not Found"
+msgstr "Không tìm thấy trang"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Rất tiếc, trang bạn tìm không tồn tại."
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Không tìm thấy nội dung tại địa chỉ này. Bạn thử tìm kiếm lại nhé?"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: content-meta-image.php:87 inc/template-tags/template-tags.php:589
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: content-meta-image.php:123 content.php:201
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-none.php:9
+msgid "Nothing Found"
+msgstr "Không tìm thấy kết quả"
+
+#: footer.php:57
+msgid "All rights reserved"
+msgstr "Bảo lưu mọi quyền"
+
+#: header-elements/account.php:65 inc/admin/settings/sections.php:635
+msgid "My account"
+msgstr "Tài khoản của tôi"
+
+#: header-elements/burger.php:32
+msgid "Open mobile menu"
+msgstr "Mở menu"
+
+#: header-elements/burger.php:43 header-elements/main-menu.php:71
+msgid "Menu"
+msgstr "Menu"
+
+#: header-elements/cart.php:76
+#: inc/integrations/woocommerce/template-tags.php:60
+msgid "Shopping cart"
+msgstr "Giỏ hàng"
+
+#: header-elements/categories.php:6
+msgid "Browse Categories"
+msgstr "Danh mục sản phẩm"
+
+#: header-elements/categories.php:72
+msgid "Header categories navigation"
+msgstr "Danh mục trên đầu trang"
+
+#: header-elements/compare.php:45
+#: inc/integrations/woocommerce/modules/compare/class-ui.php:55
+msgid "Compare products"
+msgstr "So sánh sản phẩm"
+
+#: header-elements/compare.php:62 inc/admin/settings/sections.php:430
+msgid "Compare"
+msgstr "So sánh"
+
+#: header-elements/main-menu.php:82
+#: inc/modules/header-builder/elements/Mainmenu.php:21
+msgid "Main navigation"
+msgstr "Menu chính"
+
+#: header-elements/menu.php:28
+msgid "Secondary navigation"
+msgstr "Menu phụ"
+
+#: header-elements/mobile-search.php:73 header-elements/mobile-search.php:87
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: header-elements/wishlist.php:43
+msgid "My Wishlist"
+msgstr "Yêu thích của tôi"
+
+#: header-elements/wishlist.php:64 inc/admin/settings/sections.php:439
+msgid "Wishlist"
+msgstr "Yêu thích"
+
+#: inc/admin/dashboard/class-dashboard.php:250
+#: inc/admin/dashboard/templates/header.php:213
+msgid "Categories"
+msgstr "Danh mục"
+
+#: inc/admin/dashboard/templates/xts_status.php:209
+#: inc/admin/options/controls/checkbox/class-checkbox.php:29
+msgid "On"
+msgstr "Ngày"
+
+#: inc/admin/import/class-remove.php:406 inc/enqueue.php:486
+msgid "Close"
+msgstr "Đóng"
+
+#: inc/admin/import/class-remove.php:527
+#: inc/admin/options/controls/select-with-table/class-select-with-table.php:50
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: inc/admin/settings/colors.php:195 inc/admin/settings/colors.php:210
+msgid "Shop"
+msgstr "Cửa hàng"
+
+#: inc/admin/settings/product.php:1104 inc/admin/settings/social.php:30
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: inc/admin/settings/sections.php:420 inc/admin/settings/shop.php:813
+msgid "Quick view"
+msgstr "Xem nhanh"
+
+#: inc/admin/settings/sections.php:593
+#: inc/integrations/woocommerce/modules/frequently-bought-together/class-frontend.php:392
+msgid "Add to cart"
+msgstr "Thêm vào giỏ"
+
+#: inc/admin/settings/sections.php:645
+#: inc/integrations/woocommerce/template-tags.php:1820
+msgid "Login / Register"
+msgstr "Đăng nhập / Đăng ký"
+
+#: inc/admin/settings/shop.php:524 inc/admin/settings/shop.php:537
+msgid "Sale"
+msgstr "Giảm giá"
+
+#: inc/admin/settings/shop.php:565 inc/admin/settings/shop.php:578
+msgid "New"
+msgstr "Mới"
+
+#: inc/admin/settings/shop.php:623 inc/admin/settings/shop.php:636
+msgid "Hot"
+msgstr "Hot"
+
+#: inc/admin/settings/shop.php:664 inc/admin/settings/shop.php:678
+msgid "Out of stock"
+msgstr "Hết hàng"
+
+#: inc/configs/compatible-plugins.php:44
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: inc/enqueue.php:448
+msgid "Processing"
+msgstr "Đang xử lý"
+
+#: inc/enqueue.php:449
+msgid "Product was successfully added to your cart."
+msgstr "Đã thêm sản phẩm vào giỏ hàng."
+
+#: inc/enqueue.php:450
+#: inc/integrations/woocommerce/modules/quick-buy/class-redirect.php:81
+msgid "Continue shopping"
+msgstr "Tiếp tục mua sắm"
+
+#: inc/enqueue.php:451
+msgid "View Cart"
+msgstr "Xem giỏ hàng"
+
+#: inc/enqueue.php:453 inc/integrations/elementor/elements/blog/blog.php:241
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: inc/enqueue.php:454
+#: inc/integrations/elementor/elements/banner/banner.php:303
+msgid "days"
+msgstr "ngày"
+
+#: inc/enqueue.php:455
+#: inc/integrations/elementor/elements/banner/banner.php:309
+msgid "hr"
+msgstr "giờ"
+
+#: inc/enqueue.php:456
+#: inc/integrations/elementor/elements/banner/banner.php:315
+msgid "min"
+msgstr "phút"
+
+#: inc/enqueue.php:457
+#: inc/integrations/elementor/elements/banner/banner.php:321
+msgid "sc"
+msgstr "giây"
+
+#: inc/enqueue.php:471
+msgid "View all results"
+msgstr "Xem tất cả kết quả"
+
+#: inc/enqueue.php:481 inc/enqueue.php:542
+msgid "Close (Esc)"
+msgstr "Đóng (Esc)"
+
+#: inc/enqueue.php:482
+msgid "Share on Facebook"
+msgstr "Chia sẻ lên Facebook"
+
+#: inc/enqueue.php:483
+msgid "Pin it"
+msgstr "Ghim"
+
+#: inc/enqueue.php:484
+msgid "Tweet"
+msgstr "Tweet"
+
+#: inc/enqueue.php:485
+msgid "Download image"
+msgstr "Tải ảnh"
+
+#: inc/enqueue.php:538
+msgid "Select a category"
+msgstr "Chọn danh mục"
+
+#: inc/enqueue.php:539 inc/widgets/class-widget-layered-nav.php:314
+msgid "No matches found"
+msgstr "Không có kết quả phù hợp"
+
+#: inc/enqueue.php:542
+msgid "Toggle fullscreen"
+msgstr "Toàn màn hình"
+
+#: inc/enqueue.php:542
+msgid "Zoom in/out"
+msgstr "Phóng to / thu nhỏ"
+
+#: inc/enqueue.php:542
+msgid "Previous (arrow left)"
+msgstr "Trước (mũi tên trái)"
+
+#: inc/enqueue.php:542
+msgid "Next (arrow right)"
+msgstr "Sau (mũi tên phải)"
+
+#: inc/integrations/elementor/elements/class-image-hotspot.php:144
+#: inc/integrations/elementor/elements/class-search.php:102
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: inc/integrations/elementor/elements/class-open-street-map.php:157
+#: inc/integrations/elementor/elements/class-widget-products.php:102
+msgid "Show"
+msgstr "Hiển thị"
+
+#: inc/integrations/elementor/elements/class-product-filters.php:162
+#: inc/integrations/woocommerce/template-tags.php:516
+msgid "Filters"
+msgstr "Bộ lọc"
+
+#: inc/integrations/elementor/elements/class-product-filters.php:968
+#: inc/integrations/elementor/elements/class-product-filters.php:969
+msgid "In stock"
+msgstr "Còn hàng"
+
+#: inc/integrations/elementor/elements/class-product-filters.php:1012
+#: inc/integrations/woocommerce/template-tags.php:527
+msgid "Sort by"
+msgstr "Sắp xếp"
+
+#: inc/integrations/woocommerce/functions.php:2432
+#: inc/integrations/woocommerce/modules/compare/class-compare.php:366
+msgid "Dimensions"
+msgstr "Kích thước"
+
+#: inc/integrations/woocommerce/modules/checkout-order-table/class-checkout-order-table.php:43
+msgid "Product image"
+msgstr "Ảnh sản phẩm"
+
+#: inc/integrations/woocommerce/modules/checkout-order-table/class-checkout-order-table.php:55
+#: inc/modules/layouts/elementor/cart/class-cart-table.php:143
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: inc/integrations/woocommerce/modules/checkout-order-table/templates/review-order-product-table.php:66
+#: inc/modules/layouts/elementor/cart/class-cart-table.php:168
+msgid "Remove this item"
+msgstr "Xóa sản phẩm này"
+
+#: inc/integrations/woocommerce/modules/compare/class-compare.php:374
+#: inc/integrations/woocommerce/modules/compare/class-compare.php:398
+msgid "Availability"
+msgstr "Tình trạng"
+
+#: inc/integrations/woocommerce/modules/compare/class-ui.php:206
+msgid "Compare by categories:"
+msgstr "So sánh theo danh mục:"
+
+#: inc/integrations/woocommerce/modules/compare/class-ui.php:219
+msgid "Compare more products"
+msgstr "So sánh thêm sản phẩm"
+
+#: inc/integrations/woocommerce/modules/compare/class-ui.php:223
+msgid "Remove category"
+msgstr "Bỏ danh mục"
+
+#: inc/integrations/woocommerce/modules/compare/class-ui.php:282
+msgid "Compare list is empty."
+msgstr "Danh sách so sánh đang trống."
+
+#: inc/integrations/woocommerce/modules/compare/class-ui.php:291
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:395
+msgid "Return to shop"
+msgstr "Quay lại cửa hàng"
+
+#: inc/integrations/woocommerce/modules/frequently-bought-together/class-controls.php:121
+msgid "Frequently Bought Together"
+msgstr "Thường được mua cùng"
+
+#: inc/integrations/woocommerce/modules/frequently-bought-together/class-controls.php:186
+msgid "Bundle includes"
+msgstr "Combo gồm"
+
+#: inc/integrations/woocommerce/modules/product-gallery-video/template/popup.php:246
+msgid "Unmute"
+msgstr "Bật tiếng"
+
+#: inc/integrations/woocommerce/modules/product-gallery-video/template/popup.php:251
+msgid "Mute"
+msgstr "Tắt tiếng"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-product-reviews.php:53
+#: inc/integrations/woocommerce/modules/product-reviews/class-reviews.php:265
+msgid "Reviews"
+msgstr "Đánh giá"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-product-reviews.php:224
+#: inc/integrations/woocommerce/modules/product-reviews/class-product-reviews.php:248
+msgid "Review"
+msgstr "Đánh giá"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-product-reviews.php:398
+msgid "Rating"
+msgstr "Xếp hạng"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-pros-cons.php:65
+msgid "Pros"
+msgstr "Ưu điểm"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-pros-cons.php:67
+msgid "Cons"
+msgstr "Nhược điểm"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-pros-cons.php:104
+msgid "Pros:"
+msgstr "Ưu điểm:"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-pros-cons.php:121
+msgid "Cons:"
+msgstr "Nhược điểm:"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:104
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-summary.php:113
+msgid "Rated %s out of 5"
+msgstr "Đánh giá %s trên 5 sao"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:133
+#: woocommerce/single-product-reviews.php:175
+msgid "Your rating"
+msgstr "Xếp hạng của bạn"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:140
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:179
+msgid "Rate&hellip;"
+msgstr "Chọn mức&hellip;"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:143
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:182
+msgid "Perfect"
+msgstr "Tuyệt vời"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:146
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:185
+msgid "Good"
+msgstr "Tốt"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:149
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:188
+msgid "Average"
+msgstr "Bình thường"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:152
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:191
+msgid "Not that bad"
+msgstr "Tạm được"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:155
+#: inc/integrations/woocommerce/modules/product-reviews/class-rating-criteria.php:194
+msgid "Very poor"
+msgstr "Rất tệ"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-reviews-sorting.php:32
+msgid "Newest"
+msgstr "Mới nhất"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-reviews-sorting.php:33
+msgid "Oldest"
+msgstr "Cũ nhất"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-reviews-sorting.php:37
+msgid "Most helpful"
+msgstr "Hữu ích nhất"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-reviews-sorting.php:41
+msgid "Highest rated"
+msgstr "Đánh giá cao nhất"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-reviews-sorting.php:42
+msgid "Lowest rated"
+msgstr "Đánh giá thấp nhất"
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-wc-comment-images.php:451
+msgid "You have to be logged in to be able to add photos to your review."
+msgstr "Bạn cần đăng nhập để thêm ảnh vào đánh giá."
+
+#: inc/integrations/woocommerce/modules/product-reviews/class-wc-comment-images.php:468
+msgid "Click to add images"
+msgstr "Nhấn để thêm ảnh"
+
+#: inc/integrations/woocommerce/modules/progress-bar.php:26
+msgid "Ordered:"
+msgstr "Đã đặt:"
+
+#: inc/integrations/woocommerce/modules/progress-bar.php:27
+msgid "Items available:"
+msgstr "Còn lại:"
+
+#: inc/integrations/woocommerce/modules/progress-bar.php:29
+msgid "Sold"
+msgstr "Đã bán"
+
+#: inc/integrations/woocommerce/modules/quick-buy/class-main.php:42
+#: inc/integrations/woocommerce/modules/quick-buy/class-main.php:99
+msgid "Buy now"
+msgstr "Mua ngay"
+
+#: inc/integrations/woocommerce/modules/shipping-progress-bar/class-main.php:36
+#: inc/integrations/woocommerce/modules/shipping-progress-bar/class-main.php:45
+msgid "Free shipping bar"
+msgstr "Thanh miễn phí vận chuyển"
+
+#: inc/integrations/woocommerce/modules/size-guide.php:236
+msgid "Size Guide"
+msgstr "Hướng dẫn chọn size"
+
+#: inc/integrations/woocommerce/modules/wishlist/backend/class-backend.php:181
+#: inc/integrations/woocommerce/modules/wishlist/backend/class-backend.php:182
+msgid "Wishlists"
+msgstr "Danh sách yêu thích"
+
+#: inc/integrations/woocommerce/modules/wishlist/backend/list-tables/class-popular-products.php:75
+msgid "View Product"
+msgstr "Xem sản phẩm"
+
+#: inc/integrations/woocommerce/modules/wishlist/backend/list-tables/class-users-popular-products.php:120
+#: inc/integrations/woocommerce/modules/wishlist/backend/list-tables/class-wishlists.php:84
+msgid "My wishlist"
+msgstr "Yêu thích của tôi"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:148
+msgid "Wishlist is available only for logged in visitors."
+msgstr "Chỉ khách đã đăng nhập mới dùng được danh sách yêu thích."
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:150
+#: inc/integrations/woocommerce/template-tags.php:1830
+msgid "Sign in"
+msgstr "Đăng nhập"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:192
+msgid "Your products wishlist"
+msgstr "Sản phẩm yêu thích của bạn"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:313
+msgid "Cancel"
+msgstr "Hủy"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:379
+msgid "This wishlist is empty."
+msgstr "Danh sách yêu thích đang trống."
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:471
+#: inc/integrations/woocommerce/modules/wishlist/class-wishlist-group.php:388
+msgid "Add to wishlist"
+msgstr "Thêm vào yêu thích"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:484
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:491
+msgid "Browse Wishlist"
+msgstr "Xem danh sách yêu thích"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-ui.php:514
+#: inc/integrations/woocommerce/template-tags.php:1962
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-wishlist-group.php:379
+msgid "Product was successfully added to your wishlist."
+msgstr "Đã thêm sản phẩm vào danh sách yêu thích."
+
+#: inc/integrations/woocommerce/modules/wishlist/class-wishlist-group.php:382
+msgid "Browse wishlist"
+msgstr "Xem danh sách yêu thích"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-wishlist-group.php:385
+msgid "Back to shop"
+msgstr "Quay lại cửa hàng"
+
+#: inc/integrations/woocommerce/modules/wishlist/class-wishlist-group.php:388
+msgid "Move to wishlist"
+msgstr "Chuyển vào yêu thích"
+
+#: inc/integrations/woocommerce/template-tags.php:69
+msgid "Order complete"
+msgstr "Hoàn tất đơn hàng"
+
+#: inc/integrations/woocommerce/template-tags.php:394
+msgid "Watch video"
+msgstr "Xem video"
+
+#: inc/integrations/woocommerce/template-tags.php:406
+msgid "Click to enlarge"
+msgstr "Nhấn để phóng to"
+
+#: inc/integrations/woocommerce/template-tags.php:458
+msgid "Share:"
+msgstr "Chia sẻ:"
+
+#: inc/integrations/woocommerce/template-tags.php:458
+msgid "Follow:"
+msgstr "Theo dõi:"
+
+#: inc/integrations/woocommerce/template-tags.php:543
+#: inc/widgets/class-widget-price-filter.php:32
+msgid "Price filter"
+msgstr "Lọc theo giá"
+
+#: inc/integrations/woocommerce/template-tags.php:734
+msgid "List view"
+msgstr "Dạng danh sách"
+
+#: inc/integrations/woocommerce/template-tags.php:983
+msgid "No product categories exist."
+msgstr "Chưa có danh mục sản phẩm."
+
+#: inc/integrations/woocommerce/template-tags.php:1346
+msgid "Sold out"
+msgstr "Hết hàng"
+
+#: inc/integrations/woocommerce/template-tags.php:1432
+msgid "View cart"
+msgstr "Xem giỏ hàng"
+
+#: inc/integrations/woocommerce/template-tags.php:1552
+#: woocommerce/single-product-reviews.php:64
+msgid "Clear filters"
+msgstr "Xóa bộ lọc"
+
+#: inc/integrations/woocommerce/template-tags.php:1598
+msgid "Select options"
+msgstr "Chọn phiên bản"
+
+#: inc/integrations/woocommerce/template-tags.php:1732
+msgid "Login to see prices"
+msgstr "Đăng nhập để xem giá"
+
+#: inc/integrations/woocommerce/template-tags.php:1806
+msgid "My Account"
+msgstr "Tài khoản của tôi"
+
+#: inc/integrations/woocommerce/template-tags.php:1816
+msgid "Hello, %s"
+msgstr "Xin chào, %s"
+
+#: inc/integrations/woocommerce/template-tags.php:1830
+#: inc/integrations/woocommerce/template-tags.php:2150
+msgid "Create an Account"
+msgstr "Tạo tài khoản"
+
+#: inc/integrations/woocommerce/template-tags.php:2009
+msgid "Username or email address"
+msgstr "Tên đăng nhập hoặc email"
+
+#: inc/integrations/woocommerce/template-tags.php:2013
+#: woocommerce/myaccount/form-login.php:101
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: inc/integrations/woocommerce/template-tags.php:2024
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: inc/integrations/woocommerce/template-tags.php:2028
+msgid "Lost your password?"
+msgstr "Quên mật khẩu?"
+
+#: inc/integrations/woocommerce/template-tags.php:2030
+msgid "Remember me"
+msgstr "Ghi nhớ đăng nhập"
+
+#: inc/integrations/woocommerce/template-tags.php:2036
+msgid "Or login with"
+msgstr "Hoặc đăng nhập bằng"
+
+#: inc/integrations/woocommerce/template-tags.php:2149
+msgid "No account yet?"
+msgstr "Chưa có tài khoản?"
+
+#: inc/integrations/woocommerce/template-tags.php:2228
+msgid "Your cart is currently empty."
+msgstr "Giỏ hàng của bạn đang trống."
+
+#: inc/integrations/woocommerce/template-tags.php:2257
+#: inc/modules/search.php:550
+msgid "SKU:"
+msgstr "Mã SP:"
+
+#: inc/integrations/woocommerce/template-tags.php:2289
+#: inc/modules/layouts/elementor/cart/class-cart-table.php:202
+msgid "Available on backorder"
+msgstr "Có thể đặt trước"
+
+#: inc/modules/search.php:141
+msgid "Start typing to see products you are looking for."
+msgstr "Nhập tên sản phẩm bạn cần tìm."
+
+#: inc/modules/search.php:151
+msgid "Start typing to see pages you are looking for."
+msgstr "Nhập từ khoá để tìm trang."
+
+#: inc/modules/search.php:156
+msgid "Start typing to see posts you are looking for."
+msgstr "Nhập từ khoá để tìm bài viết."
+
+#: inc/modules/search.php:227
+msgid "Close search form"
+msgstr "Đóng ô tìm kiếm"
+
+#: inc/modules/search.php:252
+msgid "Popular requests: "
+msgstr "Tìm kiếm phổ biến: "
+
+#: inc/modules/search.php:373 inc/modules/search.php:378
+msgid "Select category"
+msgstr "Chọn danh mục"
+
+#: inc/modules/search.php:423 inc/modules/search.php:614
+msgid "Results from blog"
+msgstr "Kết quả từ tin tức"
+
+#: inc/modules/search.php:435
+msgid "Show all blog results"
+msgstr "Xem tất cả bài viết"
+
+#: inc/modules/search.php:564
+msgid "No products found"
+msgstr "Không tìm thấy sản phẩm"
+
+#: inc/modules/search.php:564
+msgid "No posts found"
+msgstr "Không tìm thấy bài viết"
+
+#: inc/modules/sticky-toolbar.php:38 inc/modules/sticky-toolbar.php:91
+msgid "Home page"
+msgstr "Trang chủ"
+
+#: inc/modules/sticky-toolbar.php:42 inc/modules/sticky-toolbar.php:92
+msgid "Blog page"
+msgstr "Tin tức"
+
+#: inc/modules/sticky-toolbar.php:268
+msgid "My cart"
+msgstr "Giỏ hàng của tôi"
+
+#: inc/modules/sticky-toolbar.php:395 inc/template-tags/template-tags.php:1314
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/shortcodes/user-panel.php:26
+msgid "Please, <a href=\"%s\">log in</a>"
+msgstr "Vui lòng <a href=\"%s\">đăng nhập</a>"
+
+#: inc/shortcodes/user-panel.php:39
+msgid "Welcome, <strong>%s</strong>"
+msgstr "Xin chào, <strong>%s</strong>"
+
+#: inc/template-tags/template-tags.php:367
+msgid "Continue reading"
+msgstr "Xem tiếp"
+
+#: inc/template-tags/template-tags.php:535
+msgid "By"
+msgstr "Bởi"
+
+#: inc/template-tags/template-tags.php:537
+msgid "Posted by"
+msgstr "Đăng bởi"
+
+#: inc/template-tags/template-tags.php:559
+#: inc/template-tags/template-tags.php:561
+msgid "comments"
+msgstr "bình luận"
+
+#: inc/template-tags/template-tags.php:560
+msgid "comment"
+msgstr "bình luận"
+
+#: inc/template-tags/template-tags.php:669
+msgid "Newer"
+msgstr "Mới hơn"
+
+#: inc/template-tags/template-tags.php:685
+msgid "Older"
+msgstr "Cũ hơn"
+
+#: inc/template-tags/template-tags.php:735
+msgid "Newer Posts &rarr;"
+msgstr "Bài mới hơn &rarr;"
+
+#: inc/template-tags/template-tags.php:741
+msgid "&larr; Older Posts"
+msgstr "&larr; Bài cũ hơn"
+
+#: inc/template-tags/template-tags.php:1145
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: inc/template-tags/template-tags.php:1274
+msgid "Go back"
+msgstr "Quay lại"
+
+#: inc/template-tags/template-tags.php:1319
+msgid "Error 404"
+msgstr "Lỗi 404"
+
+#: inc/template-tags/template-tags.php:1567
+msgid "More info"
+msgstr "Thông tin thêm"
+
+#: inc/template-tags/template-tags.php:1569
+msgid "Accept"
+msgstr "Đồng ý"
+
+#: inc/template-tags/template-tags.php:1868
+msgid "Close header banner"
+msgstr "Đóng banner"
+
+#: inc/template-tags/template-tags.php:2084
+msgid "Close main menu"
+msgstr "Đóng menu"
+
+#: inc/widgets/class-widget-layered-nav.php:301
+msgid "Any %s"
+msgstr "Bất kỳ %s"
+
+#: inc/widgets/class-widget-layered-nav.php:597
+msgid "Find a %s"
+msgstr "Tìm %s"
+
+#: inc/widgets/class-widget-layered-nav.php:604
+msgid "Clear search"
+msgstr "Xóa tìm kiếm"
+
+#: inc/widgets/class-widget-recent-posts.php:91
+msgid "No Comments"
+msgstr "Chưa có bình luận"
+
+#: inc/widgets/class-widget-recent-posts.php:93
+msgid "%s Comments"
+msgstr "%s bình luận"
+
+#: inc/widgets/class-widget-recent-posts.php:95
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#: inc/widgets/class-widget-recent-posts.php:134
+msgid "Recent Posts"
+msgstr "Bài viết mới"
+
+#: inc/widgets/class-widget-search.php:30
+msgid "Search products"
+msgstr "Tìm sản phẩm"
+
+#: inc/widgets/class-widget-sorting.php:52
+msgid "Popularity"
+msgstr "Phổ biến"
+
+#: inc/widgets/class-widget-sorting.php:53
+msgid "Average rating"
+msgstr "Đánh giá trung bình"
+
+#: inc/widgets/class-widget-sorting.php:54
+msgid "Newness"
+msgstr "Mới nhất"
+
+#: inc/widgets/class-widget-sorting.php:55
+msgid "Price: low to high"
+msgstr "Giá: thấp đến cao"
+
+#: inc/widgets/class-widget-sorting.php:56
+msgid "Price: high to low"
+msgstr "Giá: cao đến thấp"
+
+#: single-portfolio.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Xem tiếp <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:31
+msgid "Tags"
+msgstr "Thẻ"
+
+#: single.php:65
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: woocommerce/cart/cart.php:32
+msgid "Remove item"
+msgstr "Xóa sản phẩm"
+
+#: woocommerce/cart/cross-sells.php:20
+msgid "You may be interested in&hellip;"
+msgstr "Có thể bạn quan tâm&hellip;"
+
+#: woocommerce/cart/mini-cart.php:121
+msgid "No products in the cart."
+msgstr "Chưa có sản phẩm nào trong giỏ hàng."
+
+#: woocommerce/cart/mini-cart.php:124
+msgid "Return To Shop"
+msgstr "Quay lại cửa hàng"
+
+#: woocommerce/checkout/form-checkout.php:31
+msgid "You must be logged in to checkout."
+msgstr "Bạn cần đăng nhập để thanh toán."
+
+#: woocommerce/checkout/form-checkout.php:66
+msgid "Your order"
+msgstr "Đơn hàng của bạn"
+
+#: woocommerce/checkout/thankyou.php:39
+msgid "Pay"
+msgstr "Thanh toán"
+
+#: woocommerce/checkout/thankyou.php:58 woocommerce/checkout/thankyou.php:104
+msgid "Thank you. Your order has been received."
+msgstr "Cảm ơn bạn. Đơn hàng đã được ghi nhận."
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Order number:"
+msgstr "Mã đơn hàng:"
+
+#: woocommerce/checkout/thankyou.php:68
+msgid "Date:"
+msgstr "Ngày:"
+
+#: woocommerce/checkout/thankyou.php:74
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce/checkout/thankyou.php:80
+msgid "Total:"
+msgstr "Tổng cộng:"
+
+#: woocommerce/checkout/thankyou.php:86
+msgid "Payment method:"
+msgstr "Phương thức thanh toán:"
+
+#: woocommerce/content-product-base.php:90
+#: woocommerce/content-product-fw-button.php:100
+msgid "Read more description"
+msgstr "Xem thêm mô tả"
+
+#: woocommerce/content-product-cat-default.php:63
+msgid "Product category %s"
+msgstr "Danh mục sản phẩm %s"
+
+#: woocommerce/global/quantity-input.php:23
+msgid "%s quantity"
+msgstr "Số lượng %s"
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr "Không tìm thấy sản phẩm phù hợp."
+
+#: woocommerce/myaccount/form-login.php:78
+#: woocommerce/myaccount/form-login.php:118
+msgid "Register"
+msgstr "Đăng ký"
+
+#: woocommerce/myaccount/form-login.php:94
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "A link to set a new password will be sent to your email address."
+msgstr "Liên kết đặt mật khẩu mới sẽ được gửi đến email của bạn."
+
+#: woocommerce/myaccount/form-login.php:130
+msgid "Or"
+msgstr "Hoặc"
+
+#: woocommerce/quick-view/product-images.php:45
+msgid "View details"
+msgstr "Xem chi tiết"
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr "Sản phẩm tạm hết hàng."
+
+#: woocommerce/single-product/add-to-cart/variable.php:287
+msgid "Clear"
+msgstr "Xóa"
+
+#: woocommerce/single-product/navigation.php:26
+msgid "Previous product"
+msgstr "Sản phẩm trước"
+
+#: woocommerce/single-product/navigation.php:48
+msgid "Back to products"
+msgstr "Về danh sách sản phẩm"
+
+#: woocommerce/single-product/navigation.php:54
+msgid "Next product"
+msgstr "Sản phẩm sau"
+
+#: woocommerce/single-product/product-image.php:173
+msgid "Awaiting product image"
+msgstr "Chưa có ảnh sản phẩm"
+
+#: woocommerce/single-product/related.php:29
+msgid "Related products"
+msgstr "Sản phẩm liên quan"
+
+#: woocommerce/single-product/sale-flash.php:25
+msgid "Sale!"
+msgstr "Giảm giá!"
+
+#: woocommerce/single-product/up-sells.php:24
+#: woocommerce/single-product/up-sells.php:34
+msgid "You may also like&hellip;"
+msgstr "Có thể bạn cũng thích&hellip;"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Only with images"
+msgstr "Chỉ đánh giá có hình ảnh"
+
+#: woocommerce/single-product-reviews.php:110
+msgid "There are no reviews yet."
+msgstr "Chưa có đánh giá nào."
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Add a review"
+msgstr "Viết đánh giá"
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Hãy là người đầu tiên đánh giá &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Leave a Reply to %s"
+msgstr "Trả lời %s"
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Submit"
+msgstr "Gửi"
+
+#: woocommerce/single-product-reviews.php:169
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "Bạn cần %1$sđăng nhập%2$s để đánh giá sản phẩm."
+
+#: woocommerce/single-product-reviews.php:185
+msgid "Your review"
+msgstr "Đánh giá của bạn"
+
+#: woocommerce/single-product-reviews.php:192
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "Chỉ khách đã mua sản phẩm này mới có thể đánh giá."
